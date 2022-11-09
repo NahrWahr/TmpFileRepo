@@ -1,0 +1,10 @@
+#include "martini_v2.2.itp"
+#include "hexadecane.itp"
+
+[ system ]
+; name
+simple-soln
+
+[ molecules ]
+; name  number
+HD        500
